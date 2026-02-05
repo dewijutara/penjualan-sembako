@@ -1,0 +1,6 @@
+{
+    "require": {
+        "livewire/livewire": "^3.7",
+        "maatwebsite/excel": "^3.1"
+    }
+}
